@@ -1,0 +1,15 @@
+Course 1
+my_name = "Doruk"
+print("Hello and welcome " + my_name + "!")
+
+Course 2 = Ironically, the first thing we’re going to do is show how to tell a computer to ignore a part of a program. Text written in a program but not run by the computer is called a comment. Python interprets anything after a # as a comment.
+# This variable will be used to count the number of times anyone tweets the word persnickety
+persnickety_count = 0
+
+Course 3 = The gift of speech is valuable: a computer can answer many questions we have about “how” or “why” or “what” it is doing. In Python, the print() function is used to tell a computer to talk. The message to be printed should be surrounded by quotes:
+# from Mary Shelley's Frankenstein
+print("There is something at work in my soul, which I do not understand.")
+
+Course 4 =
+
+
